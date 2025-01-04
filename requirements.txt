@@ -1,0 +1,6 @@
+google-generativeai
+pydantic
+tavily-python
+rich
+matplotlib
+typing-extensions
