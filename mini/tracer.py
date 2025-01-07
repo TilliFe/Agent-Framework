@@ -1,7 +1,7 @@
 from typing import Any, List, Optional
 from abc import ABC, abstractmethod
 from typing import List, Optional
-from framework import *
+from mini import *
 
 
 class CallbackHandler(ABC):

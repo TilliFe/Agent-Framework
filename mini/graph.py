@@ -1,5 +1,5 @@
 from matplotlib import pyplot as plt
-from framework import *
+from mini import *
 from typing import Callable, Dict, List, Optional, Any, Union
 from .node import Node
 from .runnable import Runnable, CallbackManager

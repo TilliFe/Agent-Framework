@@ -1,4 +1,4 @@
-from framework import *
+from mini import *
 import json
 import google.generativeai as genai
 import json

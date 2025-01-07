@@ -1,4 +1,4 @@
-from .framework import (
+from .mini import (
     Chat,
     LLMModel,
     Tool,

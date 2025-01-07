@@ -1,4 +1,4 @@
-from framework import *
+from mini import *
 from .utils import *
 from typing import Dict, List, Optional
 from typing_extensions import TypedDict

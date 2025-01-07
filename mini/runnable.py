@@ -1,7 +1,7 @@
 from typing import Any, Dict, List, Tuple, Union, Callable, Optional
 from abc import ABC, abstractmethod
 from typing import Dict, List, Optional
-from framework import *
+from mini import *
 from .tracer import CallbackManager
 
 

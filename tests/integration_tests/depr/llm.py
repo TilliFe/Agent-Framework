@@ -1,4 +1,4 @@
-from framework import LLMModel, Chat, tool, add_numbers, subtract_numbers
+from mini import LLMModel, Chat, tool, add_numbers, subtract_numbers
 
 
 def test_llm():
